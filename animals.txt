@@ -1,5 +1,4 @@
 lion red green
-
 tiger
 leopard
 turtle
